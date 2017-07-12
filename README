@@ -2,3 +2,10 @@
 
 
 im gonna build a ecosystem for using and learning graphiql.
+
+### build the docker image
+`docker build -t <name/org>/node .`
+
+
+### run a docker shell in the 
+`docker run -it samnnodim/node /bin/sh`
